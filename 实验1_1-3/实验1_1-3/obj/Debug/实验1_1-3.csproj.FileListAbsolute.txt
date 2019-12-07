@@ -1,0 +1,6 @@
+F:\作业\实验1_1-3\实验1_1-3\bin\Debug\实验1_1-3.exe.config
+F:\作业\实验1_1-3\实验1_1-3\bin\Debug\实验1_1-3.exe
+F:\作业\实验1_1-3\实验1_1-3\bin\Debug\实验1_1-3.pdb
+F:\作业\实验1_1-3\实验1_1-3\obj\Debug\实验1_1-3.csprojAssemblyReference.cache
+F:\作业\实验1_1-3\实验1_1-3\obj\Debug\实验1_1-3.exe
+F:\作业\实验1_1-3\实验1_1-3\obj\Debug\实验1_1-3.pdb
